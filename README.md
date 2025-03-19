@@ -38,7 +38,7 @@ If you find it helpful or have ideas, feel free to adapt it for your own needs o
 Contributions are more than welcome! 
 If you would like to contribute to this resource, please fork the repository and submit a pull request or contact through discord.
 
-# 📩 Support
+# Support
 
 **[Discord](https://discord.gg/SjNhQV2YeN)**
 
